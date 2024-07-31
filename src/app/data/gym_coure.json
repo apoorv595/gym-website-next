@@ -1,0 +1,36 @@
+{
+"cources":[
+    {
+        "id": 1,
+        "title": "Maximizing Gym Efficiency: Best Practices and Innovations",
+        "description": "Learn the latest best practices and innovative strategies to enhance efficiency and member satisfaction in gyms.",
+        "price": 49.99,
+        "instructor": "John Doe",
+        "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 2,
+        "title": "Enhancing Member Experience through Technology",
+        "description": "Discover how modern technology can revolutionize the gym experience for your members.",
+        "price": 59.99,
+        "instructor": "Jane Smith",
+        "image": "https://plus.unsplash.com/premium_photo-1661301057249-bd008eebd06a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "title": "Effective Marketing Strategies for Gym Owners",
+        "description": "Learn proven marketing strategies tailored for gym owners to attract and retain more members.",
+        "price": 39.99,
+        "instructor": "Robert Brown",
+        "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "title": "Financial Management for Gym Success",
+        "description": "Gain insights into the financial aspects of running a successful gym.",
+        "price": 69.99,
+        "instructor": "Emily White",
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
+}
